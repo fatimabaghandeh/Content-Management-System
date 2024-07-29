@@ -15,7 +15,7 @@ function NavBar() {
   return (
     <nav className='p-1 bg-white flex items-center justify-around text-black shadow'>
       <a href='/'>
-        <h1 className="mr-20 text-2xl">CMS Inspire Blog</h1>
+        <h1 className="mr-20 text-2xl">CMS Inspire</h1>
       </a>
       <form onSubmit={handleSearchSubmit}>
         <input

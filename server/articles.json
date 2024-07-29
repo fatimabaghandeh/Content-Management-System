@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "First Article",
+      "body": "This is the body of the first articlehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "body": "This is the body of the second article.",
+      "author": "Jane Smith"
+    },
+    {
+      "title": "This is perfect",
+      "body": "i'm really happy that you work honey!",
+      "author": "Your Name",
+      "id": 1722211149630
+    }
+  ]
+}
